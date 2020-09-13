@@ -9,7 +9,7 @@ An Online Application For Sanitization of your Work Places, Home, Colonies etc.i
 
 Download or clone this repo by using the link below:
 
-```https://github.com/YadavSumit2408/App-Project.git```
+```https://github.com/Suryansh1004/Sanitize-app.git```
 
 **Step 2:**
 
